@@ -5,8 +5,6 @@ public class MovablePoint extends Point {
     private float ySpeed = 0.0f;
     public void MovablePoint(float x, float y , float xSpeed, float ySpeed){
     }
-    public MovablePoint(){
-    }
 
     public float getxSpeed() {
         return xSpeed;
