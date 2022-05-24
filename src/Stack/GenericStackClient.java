@@ -32,6 +32,7 @@ public class GenericStackClient {
 
     public static void main(String[] args) {
         stackofString();
+        System.out.println("//////");
         stackofIntegers();
     }
 }
