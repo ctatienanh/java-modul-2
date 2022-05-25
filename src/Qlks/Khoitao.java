@@ -28,6 +28,7 @@ public class Khoitao<E> {
                 showkhachsan();
                 break;
             case 4:
+
                 khachs.sort(new Sortdate());
                 showkhach();
                 break;
@@ -51,7 +52,6 @@ public class Khoitao<E> {
     }
 
     public void addphong(Khachsan ks){
-
         phong.add(ks);
     }
 
