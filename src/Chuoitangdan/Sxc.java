@@ -1,6 +1,7 @@
 package Chuoitangdan;
 
 import java.util.LinkedList;
+import java.util.List;
 import java.util.Scanner;
 
 public class Sxc {
@@ -8,8 +9,7 @@ public class Sxc {
     public static void main(String[] args) {
         System.out.print("Nhập chuỗi: ");
         String string  =sc.nextLine();
-
-        LinkedList<Character> max = new LinkedList<>();
+        List<Character> max = new LinkedList<>();
 
         // Tìm chuỗi tăng dần có độ dài lớn nhất
         for (int i = 0; i < string.length(); i++) { //Vòng lặp bên ngoài
