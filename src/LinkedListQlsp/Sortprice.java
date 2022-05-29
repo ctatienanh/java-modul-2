@@ -1,4 +1,4 @@
-package LinkedListt;
+package LinkedListQlsp;
 
 import java.util.Comparator;
 

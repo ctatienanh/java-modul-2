@@ -1,10 +1,8 @@
-package LinkedListt;
-
 public class Demo {
     public static void main(String[] args) {
-        Qlsp sc = new Qlsp();
+        Qlhs ql = new Qlhs();
         while (true){
-            sc.menu();
+            ql.menu();
         }
     }
 }

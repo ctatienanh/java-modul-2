@@ -1,4 +1,4 @@
-package LinkedListt;
+package LinkedListQlsp;
 
 public class Sanpham {
 
@@ -39,5 +39,12 @@ public class Sanpham {
         this.giasp = giasp;
     }
 
-
+    @Override
+    public String toString() {
+        return "Sanpham{" +
+                "id=" + id +
+                ", tensanpham='" + tensanpham + '\'' +
+                ", giasp=" + giasp +
+                '}';
+    }
 }

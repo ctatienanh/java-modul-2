@@ -1,4 +1,6 @@
-package LinkedListt;
+package LinkedListQlsp;
+
+import jdk.internal.org.objectweb.asm.tree.TryCatchBlockNode;
 
 import java.util.LinkedList;
 import java.util.Scanner;
@@ -55,6 +57,7 @@ public class Qlsp {
        Double giasanpham = Double.parseDouble(sc.nextLine());
        System.out.println("nhap id san pham :");
        int id = Integer.parseInt(sc.nextLine());
+
        return new Sanpham(name,giasanpham,id);
    }
    public void addsanpham(Sanpham s ){
