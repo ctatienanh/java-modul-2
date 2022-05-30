@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../GhiFile/GhiFile.iml" filepath="$PROJECT_DIR$/../GhiFile/GhiFile.iml" />
       <module fileurl="file://$PROJECT_DIR$/Quanlyhocsinh/Quanlyhocsinh.iml" filepath="$PROJECT_DIR$/Quanlyhocsinh/Quanlyhocsinh.iml" />
       <module fileurl="file://$PROJECT_DIR$/Trycatluyentap/Trycatluyentap.iml" filepath="$PROJECT_DIR$/Trycatluyentap/Trycatluyentap.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled.iml" filepath="$PROJECT_DIR$/untitled.iml" />
