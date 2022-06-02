@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../CheckMax/CheckMax.iml" filepath="$PROJECT_DIR$/../CheckMax/CheckMax.iml" />
       <module fileurl="file://$PROJECT_DIR$/Quanlyhocsinh/Quanlyhocsinh.iml" filepath="$PROJECT_DIR$/Quanlyhocsinh/Quanlyhocsinh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Quanlysinhvien/Quanlysinhvien.iml" filepath="$PROJECT_DIR$/../Quanlysinhvien/Quanlysinhvien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Regex/Regex.iml" filepath="$PROJECT_DIR$/../Regex/Regex.iml" />
       <module fileurl="file://$PROJECT_DIR$/Trycatluyentap/Trycatluyentap.iml" filepath="$PROJECT_DIR$/Trycatluyentap/Trycatluyentap.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled.iml" filepath="$PROJECT_DIR$/untitled.iml" />
     </modules>

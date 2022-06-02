@@ -6,6 +6,7 @@ public class Hocsinh {
     private Date ngaysinh;
     private String quequan;
 
+
     public Hocsinh() {
     }
 
